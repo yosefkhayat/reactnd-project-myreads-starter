@@ -12,5 +12,19 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "name": "--save-dev",
+  "description": "This is a part of udacity nanodegree, This is a web base library that contain three shelfs (read, want to read, currently reading) and a search bar to search new books",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosefkhayat/reactnd-project-myreads-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosefkhayat/reactnd-project-myreads-starter/issues"
+  },
+  "homepage": "https://github.com/yosefkhayat/reactnd-project-myreads-starter#readme"
 }
